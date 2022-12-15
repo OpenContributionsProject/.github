@@ -1,6 +1,6 @@
 # Open Contributions Project
 
-> 💙 An effort to describe and quantify corporate contributions to open source. Our goal is to empower employees advocating for open source contributions to their employers.
+An effort to describe and quantify corporate contributions to open source. Our goal is to empower employees advocating for open source contributions to their employers. 💙
 
 ## Project Goals
 
