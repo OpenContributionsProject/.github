@@ -6,7 +6,7 @@ An effort to describe and quantify corporate contributions to open source. Our g
 
 We plan on tackling two project focuses, in order of complexity:
 
-- **Describing**: writing convincing, data-backed resources for why open source contributions are in company’s best interests.
+- **Explaining**: writing convincing, data-backed resources for why open source contributions are in company’s best interests.
 - **Quantifying**: creating a tracking service that spotlights open source contributions already being done by companies.
 
 ## Explaining Open Source Contributions
@@ -42,7 +42,7 @@ Once our documentation and explainer pages are filled out on the site, we will e
 
 We intend to track two kinds of contributions:
 
-- **Employee time:** During work hours, spending employee time on open source projects
+- **Employee time**: During work hours, spending employee time on open source projects
 - **Financial**: Monetary donations, including sponsorship donations and product discounts
 
 Contributions will also be tracked in the context of what kind of recipient open source project:
